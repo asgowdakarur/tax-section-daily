@@ -1,0 +1,1184 @@
+{
+ "lastUpdated": "2026-11-23",
+ "entries": [
+  {
+   "id": "gst-16",
+   "date": "2026-11-23",
+   "act": "GST",
+   "actName": "CGST Act, 2017",
+   "section": "16",
+   "title": "Eligibility and conditions for taking input tax credit",
+   "chapter": "Chapter V — Input Tax Credit",
+   "tags": [
+    "ITC",
+    "16(2)(c)",
+    "Time limit",
+    "GSTR-2B",
+    "Rule 37A",
+    "Bona fide purchaser"
+   ],
+   "summary": "The gateway provision for input tax credit. It grants the entitlement in s.16(1), then fences it with cumulative conditions in s.16(2), a depreciation bar in s.16(3) and a time limit in s.16(4)–(6). 2026 settled the validity of s.16(2)(c) — the 'supplier must have paid' condition — at the Supreme Court, but the courts still disagree on how it may be applied to honest buyers.",
+   "glance": [
+    {
+     "k": "Who it applies to",
+     "v": "Every registered person claiming ITC on inward supplies"
+    },
+    {
+     "k": "Core rule",
+     "v": "ITC is available only if ALL conditions of s.16(2) are met, within the s.16(4) window"
+    },
+    {
+     "k": "Hot issue (2026)",
+     "v": "s.16(2)(c) upheld by Gujarat HC; SC dismissed SLPs (24 Jul 2026). Tripura HC reading-down for bona fide buyers still in the field"
+    },
+    {
+     "k": "Time limit",
+     "v": "30 November after the end of the FY of the invoice, or date of annual return — whichever is earlier"
+    },
+    {
+     "k": "Linked provisions",
+     "v": "ss.17, 18, 37, 38, 39, 41, 49, 50, 155; Rules 36, 37, 37A, 88D"
+    },
+    {
+     "k": "Key forms",
+     "v": "GSTR-2B, IMS, GSTR-3B (Table 4), DRC-01C, GSTR-9 (Table 6/8)"
+    }
+   ],
+   "text": [
+    {
+     "sub": "(1)",
+     "t": "Every registered person shall, subject to such conditions and restrictions as may be prescribed and in the manner specified in section 49, be entitled to take credit of input tax charged on any supply of goods or services or both to him which are used or intended to be used in the course or furtherance of his business and the said amount shall be credited to the electronic credit ledger of such person."
+    },
+    {
+     "sub": "(2)",
+     "t": "Notwithstanding anything contained in this section, no registered person shall be entitled to the credit of any input tax in respect of any supply of goods or services or both to him unless,— (a) he is in possession of a tax invoice or debit note issued by a supplier registered under this Act, or such other tax paying documents as may be prescribed; (aa) the details of the invoice or debit note referred to in clause (a) has been furnished by the supplier in the statement of outward supplies and such details have been communicated to the recipient of such invoice or debit note in the manner specified under section 37; (b) he has received the goods or services or both [Explanation: deemed receipt where goods are delivered, or services provided, to another person on the direction of the registered person — 'bill-to-ship-to']; (ba) the details of input tax credit in respect of the said supply communicated to such registered person under section 38 has not been restricted; (c) subject to the provisions of section 41, the tax charged in respect of such supply has been actually paid to the Government, either in cash or through utilisation of input tax credit admissible in respect of the said supply; and (d) he has furnished the return under section 39."
+    },
+    {
+     "sub": "Provisos to (2)",
+     "t": "(i) Goods received in lots/instalments — credit on receipt of the last lot. (ii) Where the recipient fails to pay the supplier the value plus tax within 180 days from the invoice date (other than reverse-charge supplies), the ITC availed is to be paid back with interest under section 50. (iii) The recipient becomes entitled to the credit again on making the payment to the supplier."
+    },
+    {
+     "sub": "(3)",
+     "t": "Where the registered person has claimed depreciation on the tax component of the cost of capital goods and plant and machinery under the provisions of the Income-tax Act, the input tax credit on the said tax component shall not be allowed."
+    },
+    {
+     "sub": "(4)",
+     "t": "A registered person shall not be entitled to take input tax credit in respect of any invoice or debit note for supply of goods or services or both after the thirtieth day of November following the end of financial year to which such invoice or debit note pertains or furnishing of the relevant annual return, whichever is earlier."
+    },
+    {
+     "sub": "(5)",
+     "t": "Notwithstanding sub-section (4), for invoices/debit notes of FYs 2017-18, 2018-19, 2019-20 and 2020-21, ITC may be taken in any return under section 39 filed up to 30 November 2021. [Inserted by Finance (No. 2) Act, 2024, retrospectively from 1 July 2017]"
+    },
+    {
+     "sub": "(6)",
+     "t": "Where registration is cancelled under section 29 and later revoked (under section 30 or by order of the Appellate Authority, Tribunal or court), and the ITC was not already time-barred under sub-section (4) on the date of cancellation, ITC may be taken in a return filed (i) up to 30 November following the FY / annual return, whichever is earlier; or (ii) for the period from the (effective) date of cancellation till the revocation order, where the return is filed within 30 days of the revocation order — whichever is later. [Inserted by Finance (No. 2) Act, 2024, retrospectively from 1 July 2017]"
+    }
+   ],
+   "textNote": "Text reproduced for study as amended to date to the best of our verification; sub-sections (5)–(6) and provisos are condensed. Always confirm against the CBIC Taxinformation portal before quoting in a reply or appeal.",
+   "interpretation": [
+    {
+     "h": "1. Right or concession? The starting point",
+     "p": [
+      "Section 16(1) uses the word <i>entitled</i>, which taxpayers rely on to argue that ITC is a vested right once the conditions are met (the CENVAT-era line from <i>Eicher Motors v. Union of India</i> (SC, 1999)). Revenue relies on the opposite line: in <i>Jayam & Co.</i> (SC, 2016, under TNVAT) and <i>Union of India v. Bharti Airtel</i> (SC, 2021, under GST) the Supreme Court treated ITC as a concession that is available only on the terms the statute sets.",
+      "<b>Practical reading:</b> once credit has been <i>validly</i> taken, it is protected; but whether it was validly taken depends strictly on each condition in s.16(2). Courts will not relax a statutory condition on equity alone — the arguments that win are about how the condition is applied, not whether it exists."
+     ]
+    },
+    {
+     "h": "2. The cumulative gate in s.16(2)",
+     "p": [
+      "The opening words <i>'Notwithstanding anything contained in this section … unless'</i> make every clause a separate pre-condition. Failing any one is enough to deny the credit, which is why departmental notices usually list several clauses together.",
+      "<b>(a) Document</b> — tax invoice/debit note or prescribed document (Rule 36). <b>(aa) Reflection</b> — supplier has filed GSTR-1/IFF and it appears in the recipient's GSTR-2B (since 1 Jan 2022, Rule 36(4) allows no credit beyond 2B). <b>(b) Receipt</b> — actual or deemed (bill-to-ship-to). <b>(ba) Not restricted</b> — the s.38 statement does not block it (e.g., new registrants, suppliers with return defaults). <b>(c) Tax paid by supplier</b>. <b>(d) Return filed</b> by the recipient."
+     ]
+    },
+    {
+     "h": "3. Section 16(2)(c): where the law stands on 23 November 2026",
+     "p": [
+      "<b>Validity is settled for now.</b> The Gujarat High Court in <i>Maruti Enterprise v. Union of India</i> (1 May 2026) upheld s.16(2)(c), reading it together with s.41(2), s.53, s.155 and Rule 37A. The Supreme Court dismissed three SLPs against that judgment in <i>Bhandari Scrap Traders v. Union of India</i> (24 July 2026). Commentators note the order dealt with constitutional validity and did not lay down a rule for chain supplies.",
+      "<b>Application is still contested.</b> The Tripura High Court in <i>Sahil Enterprises</i> (6 Jan 2026) did not strike the clause down but read it down: it should not be used against a purchaser in a bona fide transaction, only where the deal is collusive or fraudulent. The Supreme Court's order in <i>Bhandari Scrap Traders</i> did not set that judgment aside, and an SLP against it has been reported — check its status before relying on it. The Punjab & Haryana High Court, deciding 424 petitions in <i>Shaurya Alloys</i> (1 Oct 2026), took a middle path: the clause is valid and is not read down, but it cannot be used as a standalone, mechanical ground, and the court issued guidelines requiring it to be applied together with ss.41, 73, 74, 75(12), 76, 79, 155 and Rules 36, 37A and 88C.",
+      "<b>What this means in a reply to a notice:</b> (i) do not argue unconstitutionality — that argument is closed; (ii) argue the burden — under s.155 the purchaser must prove eligibility, and <i>State of Karnataka v. Ecom Gill Coffee Trading</i> (SC, 2023) shows what proof looks like (invoices, e-way bills, transport, payment through bank, physical movement); (iii) argue the sequence — <i>Suncraft Energy</i> (Cal HC, SLP dismissed Dec 2023) and the P&H guidelines expect the department to first pursue the defaulting supplier; (iv) in the Tripura jurisdiction, plead the reading-down directly."
+     ]
+    },
+    {
+     "h": "4. Payment to the supplier within 180 days",
+     "p": [
+      "The second proviso is separate from clause (c): it is about the <i>recipient</i> paying the supplier. If the recipient has not paid value plus tax within 180 days of the invoice, the credit must be added to output liability with interest (Rule 37, reported in GSTR-3B), and it can be re-claimed when payment is made. Reverse-charge supplies and certain deemed supplies are excluded."
+     ]
+    },
+    {
+     "h": "5. The time limit in s.16(4)–(6)",
+     "p": [
+      "The deadline is tied to the financial year <i>to which the invoice pertains</i>, not the date of receipt or booking. It ends on 30 November after that FY, or on filing the annual return if earlier (substituted by Finance Act, 2022). The Patna HC (<i>Gobinda Construction</i>, 2023) and Andhra Pradesh HC (<i>Thirumalakonda Plywoods</i>, 2023) upheld s.16(4) as a valid, mandatory condition.",
+      "For reverse charge on supplies from <b>unregistered</b> persons, Circular 211/05/2024-GST explains that the relevant FY is that of the invoice the recipient issues under s.31(3)(f). Sections 16(5) and 16(6), inserted retrospectively by the Finance (No. 2) Act, 2024, give relief for FYs 2017-18 to 2020-21 and for cases where registration was cancelled and later restored. Circular 237/31/2024-GST lays down how orders already passed can be rectified, but s.150 of that Finance Act bars refunds of tax already paid or credit already reversed."
+     ]
+    },
+    {
+     "h": "6. Interaction with ss.17 and 18",
+     "p": [
+      "Meeting s.16 is necessary but not sufficient: s.17 restricts credit for exempt or non-business use and blocks the items in s.17(5). After <i>Chief Commissioner v. Safari Retreats</i> (SC, 3 Oct 2024) applied a functionality test to 'plant or machinery' in s.17(5)(d), Parliament amended the clause retrospectively from 1 July 2017 through the Finance Act, 2025 — a clear example of the law being changed to undo a judgment. Section 18 covers credit on new registration and on change of scheme (ITC-01, ITC-02, ITC-03)."
+     ]
+    },
+    {
+     "h": "7. Risk map for practitioners",
+     "p": [
+      "Most s.16 demands in 2025–26 come from three data mismatches: GSTR-3B credit claimed above GSTR-2B (Rule 88D / DRC-01C intimations), suppliers' credits that were cancelled retrospectively (s.16(2)(c) and (aa)), and credit claimed after the time limit (s.16(4)). Run a monthly 2B-to-3B reconciliation, check vendors' return-filing status, keep proof that goods moved, and build GST-withholding or indemnity terms into vendor contracts."
+     ]
+    }
+   ],
+   "diagram": {
+    "type": "flow",
+    "title": "ITC eligibility gate — every box must be cleared",
+    "steps": [
+     {
+      "label": "Tax invoice / debit note in hand",
+      "ref": "s.16(2)(a) · Rule 36",
+      "fail": "No valid document → no ITC"
+     },
+     {
+      "label": "Appears in GSTR-2B (via supplier's GSTR-1/IFF)",
+      "ref": "s.16(2)(aa) · Rule 36(4) · IMS",
+      "fail": "Not in 2B → wait or follow up with supplier"
+     },
+     {
+      "label": "Goods / services actually or deemed received",
+      "ref": "s.16(2)(b) + Explanation",
+      "fail": "Paper invoices with no movement → fake ITC exposure"
+     },
+     {
+      "label": "Credit not restricted in s.38 statement",
+      "ref": "s.16(2)(ba)",
+      "fail": "Restricted credit cannot be availed"
+     },
+     {
+      "label": "Supplier has paid the tax to Government",
+      "ref": "s.16(2)(c) · s.41 · Rule 37A",
+      "fail": "Reverse if supplier has not filed GSTR-3B by 30 Sep; re-avail on payment"
+     },
+     {
+      "label": "Recipient has filed GSTR-3B",
+      "ref": "s.16(2)(d) · s.39",
+      "fail": "Credit cannot be taken outside a return"
+     },
+     {
+      "label": "Within the time limit",
+      "ref": "s.16(4) · (5) · (6)",
+      "fail": "After 30 Nov / annual return → time-barred"
+     },
+     {
+      "label": "Not blocked or apportioned",
+      "ref": "s.17(1)–(5)",
+      "fail": "Blocked items / exempt use → no or partial ITC"
+     },
+     {
+      "label": "Supplier paid within 180 days",
+      "ref": "2nd proviso · Rule 37",
+      "fail": "Add back with interest; re-avail when paid"
+     }
+    ],
+    "end": "ITC credited to electronic credit ledger (s.49)"
+   },
+   "charts": [
+    {
+     "type": "timeline",
+     "title": "How the 'supplier must pay' condition has fared in the courts",
+     "events": [
+      {
+       "date": "Oct 2017",
+       "label": "Arise India v. Commr. of Trade & Taxes (Delhi HC) — read down the similar DVAT s.9(2)(g) for bona fide buyers; SLP later dismissed",
+       "tone": "good"
+      },
+      {
+       "date": "Mar 2023",
+       "label": "State of Karnataka v. Ecom Gill Coffee Trading (SC) — buyer must prove the transaction is genuine (KVAT)",
+       "tone": "warn"
+      },
+      {
+       "date": "Aug 2023",
+       "label": "Suncraft Energy (Calcutta HC) — proceed against the defaulting supplier first; SC dismissed SLP, Dec 2023",
+       "tone": "good"
+      },
+      {
+       "date": "6 Jan 2026",
+       "label": "Sahil Enterprises (Tripura HC) — s.16(2)(c) valid but read down to protect bona fide purchasers",
+       "tone": "good"
+      },
+      {
+       "date": "1 May 2026",
+       "label": "Maruti Enterprise (Gujarat HC) — s.16(2)(c) upheld, read with ss.41, 53, 155 and Rule 37A",
+       "tone": "bad"
+      },
+      {
+       "date": "24 Jul 2026",
+       "label": "Bhandari Scrap Traders (SC) — SLPs against Gujarat HC dismissed; validity affirmed",
+       "tone": "key"
+      },
+      {
+       "date": "1 Oct 2026",
+       "label": "Shaurya Alloys (P&H HC, 424 petitions) — valid, not read down, but no mechanical use; guidelines issued",
+       "tone": "warn"
+      }
+     ],
+     "legend": [
+      [
+       "good",
+       "Favours purchaser"
+      ],
+      [
+       "bad",
+       "Favours Revenue"
+      ],
+      [
+       "warn",
+       "Balanced / conditions"
+      ],
+      [
+       "key",
+       "Supreme Court"
+      ]
+     ]
+    },
+    {
+     "type": "matrix",
+     "title": "Where each court stands on s.16(2)(c) (as of 23 Nov 2026)",
+     "cols": [
+      "Constitutionally valid?",
+      "Read down for bona fide buyers?",
+      "Department must pursue supplier first?"
+     ],
+     "rows": [
+      {
+       "label": "Supreme Court (Bhandari Scrap, 2026)",
+       "v": [
+        "yes",
+        "—",
+        "—"
+       ]
+      },
+      {
+       "label": "Gujarat HC (Maruti Enterprise, 2026)",
+       "v": [
+        "yes",
+        "no",
+        "mid"
+       ]
+      },
+      {
+       "label": "P&H HC (Shaurya Alloys, 2026)",
+       "v": [
+        "yes",
+        "no",
+        "yes"
+       ]
+      },
+      {
+       "label": "Tripura HC (Sahil Enterprises, 2026)",
+       "v": [
+        "yes",
+        "yes",
+        "yes"
+       ]
+      },
+      {
+       "label": "Calcutta HC (Suncraft Energy, 2023)",
+       "v": [
+        "—",
+        "mid",
+        "yes"
+       ]
+      }
+     ],
+     "note": "yes = ✔, no = ✘, mid = partly / case-specific, — = not decided. A simplified view; read the judgments for the exact holdings."
+    }
+   ],
+   "rules": [
+    {
+     "ref": "Rule 36",
+     "title": "Documentary requirements and conditions",
+     "gist": "Lists the documents that support ITC (invoice, debit note, bill of entry, ISD invoice, RCM invoice). Rule 36(4): from 1 Jan 2022 ITC is limited to what appears in GSTR-2B."
+    },
+    {
+     "ref": "Rule 37",
+     "title": "Reversal for non-payment within 180 days",
+     "gist": "Recipient adds back ITC with interest if the supplier is not paid within 180 days; can re-avail once payment is made."
+    },
+    {
+     "ref": "Rule 37A",
+     "title": "Reversal where the supplier has not paid tax",
+     "gist": "If the supplier has not filed GSTR-3B for the period, the recipient reverses the ITC by 30 November of the following FY; it can be re-availed after the supplier files and pays. This rule is central to the Gujarat HC's reasoning in Maruti Enterprise."
+    },
+    {
+     "ref": "Rule 88D",
+     "title": "Excess ITC in GSTR-3B over GSTR-2B",
+     "gist": "System intimation in DRC-01C; the taxpayer must reverse or explain the difference, or face blocking of GSTR-1 filing."
+    },
+    {
+     "ref": "Rule 88C (supplier side)",
+     "title": "Liability in GSTR-1 above GSTR-3B",
+     "gist": "DRC-01B intimation to the supplier; relevant because the buyer's credit depends on the supplier paying in full."
+    }
+   ],
+   "notifications": [
+    {
+     "ref": "Notification 40/2021-CT",
+     "date": "29.12.2021",
+     "gist": "Amended Rule 36(4) to restrict ITC to GSTR-2B from 1 Jan 2022."
+    },
+    {
+     "ref": "Notification 18/2022-CT",
+     "date": "28.09.2022",
+     "gist": "Brought Finance Act, 2022 changes into force from 1 Oct 2022, including s.16(2)(ba) and the 30 November deadline in s.16(4)."
+    },
+    {
+     "ref": "Circular 183/15/2022-GST",
+     "date": "27.12.2022",
+     "gist": "Procedure for GSTR-2A vs GSTR-3B mismatches for FY 2017-18 and 2018-19 (supplier's CA/CMA certificate above ₹5 lakh; supplier's certificate below that)."
+    },
+    {
+     "ref": "Circular 193/05/2023-GST",
+     "date": "17.07.2023",
+     "gist": "Applied the same approach to 1 Apr 2019 – 31 Dec 2021."
+    },
+    {
+     "ref": "Circular 211/05/2024-GST",
+     "date": "26.06.2024",
+     "gist": "s.16(4) time limit for RCM supplies from unregistered persons runs from the FY of the invoice issued by the recipient."
+    },
+    {
+     "ref": "Notification 17/2024-CT",
+     "date": "27.09.2024",
+     "gist": "Notified dates for Finance (No. 2) Act, 2024 amendments, including the retrospective ss.16(5) and 16(6)."
+    },
+    {
+     "ref": "Circular 237/31/2024-GST",
+     "date": "15.10.2024",
+     "gist": "How to rectify orders under ss.73/74/107/108 where ITC is now allowed by ss.16(5)/(6); no refund of tax already paid."
+    },
+    {
+     "ref": "Circular 262/08/2026-GST",
+     "date": "26.10.2026",
+     "gist": "Part of the post-57th Council set: clarifies ITC on demo vehicles in the dealer-agency model (s.17 interaction). Read with s.16."
+    }
+   ],
+   "cases": [
+    {
+     "name": "Bhandari Scrap Traders v. Union of India",
+     "court": "Supreme Court",
+     "date": "24.07.2026",
+     "cite": "SLP(C) No. 23931/2026 & connected",
+     "held": "Dismissed SLPs and affirmed the Gujarat HC judgment upholding s.16(2)(c). Commentators read the order as limited to validity.",
+     "status": "Binding"
+    },
+    {
+     "name": "Shaurya Alloys Pvt. Ltd. v. State of Punjab",
+     "court": "Punjab & Haryana HC",
+     "date": "01.10.2026",
+     "cite": "CWP No. 34296 of 2024 & 423 connected",
+     "held": "s.16(2)(c) read with s.155 valid and not read down; cannot be invoked routinely or mechanically; guidelines for pending and future cases; existing orders to be reconsidered.",
+     "status": "Persuasive"
+    },
+    {
+     "name": "Maruti Enterprise v. Union of India",
+     "court": "Gujarat HC",
+     "date": "01.05.2026",
+     "cite": "R/SCA No. 18080 of 2023",
+     "held": "Upheld vires of s.16(2)(c) read with ss.41(2), 53, 155 and Rule 37A; merits of individual cases left open.",
+     "status": "Persuasive"
+    },
+    {
+     "name": "M/s Sahil Enterprises v. Union of India",
+     "court": "Tripura HC",
+     "date": "06.01.2026",
+     "cite": "WP(C) No. 688 of 2022",
+     "held": "Not unconstitutional, but cannot deny ITC to a bona fide purchaser for the supplier's default; applies only to collusive or fraudulent deals. An SLP has been reported — verify its status.",
+     "status": "Pending"
+    },
+    {
+     "name": "Suncraft Energy Pvt. Ltd. v. ACST",
+     "court": "Calcutta HC",
+     "date": "02.08.2023",
+     "cite": "SLP dismissed by SC, 14.12.2023",
+     "held": "ITC could not be reversed without first proceeding against the supplier and examining the purchaser's evidence.",
+     "status": "Persuasive"
+    },
+    {
+     "name": "State of Karnataka v. Ecom Gill Coffee Trading Pvt. Ltd.",
+     "court": "Supreme Court",
+     "date": "13.03.2023",
+     "cite": "KVAT, s.70",
+     "held": "The dealer claiming credit must prove the transaction is genuine; invoices and bank payment alone may not be enough.",
+     "status": "Binding"
+    },
+    {
+     "name": "Union of India v. Bharti Airtel Ltd.",
+     "court": "Supreme Court",
+     "date": "28.10.2021",
+     "cite": "GST",
+     "held": "ITC is in the nature of a concession; GSTR-3B is self-assessment; no general right to rectify returns outside the statute.",
+     "status": "Binding"
+    },
+    {
+     "name": "D.Y. Beathel Enterprises v. State Tax Officer",
+     "court": "Madras HC",
+     "date": "24.02.2021",
+     "cite": "",
+     "held": "Department should first proceed against the defaulting seller before denying credit to the buyer; matter remanded.",
+     "status": "Persuasive"
+    },
+    {
+     "name": "Arise India Ltd. v. Commissioner of Trade & Taxes",
+     "court": "Delhi HC",
+     "date": "26.10.2017",
+     "cite": "DVAT s.9(2)(g); SLP dismissed 2018",
+     "held": "Read down the equivalent VAT provision to protect purchasing dealers who acted in good faith.",
+     "status": "Persuasive"
+    },
+    {
+     "name": "Gobinda Construction v. Union of India",
+     "court": "Patna HC",
+     "date": "2023",
+     "cite": "",
+     "held": "Upheld the s.16(4) time limit as a valid restriction on a concession.",
+     "status": "Persuasive"
+    },
+    {
+     "name": "Thirumalakonda Plywoods v. Assistant Commissioner",
+     "court": "Andhra Pradesh HC",
+     "date": "2023",
+     "cite": "",
+     "held": "s.16(4) is mandatory, not procedural; credit after the deadline denied.",
+     "status": "Persuasive"
+    },
+    {
+     "name": "Chief Commissioner of CGST v. Safari Retreats Pvt. Ltd.",
+     "court": "Supreme Court",
+     "date": "03.10.2024",
+     "cite": "s.17(5)(d)",
+     "held": "Functionality test for 'plant or machinery'; the outcome was then overridden by a retrospective amendment in the Finance Act, 2025.",
+     "status": "Overridden"
+    }
+   ],
+   "forms": [
+    {
+     "form": "GSTR-2B / IMS",
+     "use": "Auto-drafted ITC statement; the Invoice Management System lets the recipient accept, reject or keep invoices pending before 2B is generated."
+    },
+    {
+     "form": "GSTR-3B — Table 4",
+     "use": "Where ITC is availed, reversed (Rule 37/37A/42/43) and re-availed."
+    },
+    {
+     "form": "DRC-01C",
+     "use": "Intimation and reply where GSTR-3B ITC exceeds GSTR-2B (Rule 88D)."
+    },
+    {
+     "form": "GSTR-9 — Tables 6, 7, 8",
+     "use": "Annual reconciliation of ITC availed, reversed and as per 2B. Filing it also closes the s.16(4) window."
+    },
+    {
+     "form": "ITC-01 / ITC-02 / ITC-03",
+     "use": "ITC on new registration or scheme change; transfer on business transfer; reversal on opting for composition (s.18)."
+    }
+   ],
+   "articles": [
+    {
+     "title": "Protecting Revenue Without Penalising Purchasers — the s.16(2)(c) debate",
+     "author": "SCC Online Blog (guest contributor)",
+     "source": "SCC Online Times",
+     "date": "22 Aug 2026",
+     "url": "https://www.scconline.com/blog/post/2026/08/22/section-16-2-c-cgst-act-input-tax-credit-purchasers/",
+     "gist": "Argues the clause is defensible in principle but harsh in practice, and looks at how a fraud-focused test could balance revenue and honest buyers."
+    },
+    {
+     "title": "Limits of Bhandari Scrap Traders",
+     "author": "Ravindra Kumar Rastogi, Advocate",
+     "source": "TaxGuru",
+     "date": "2026",
+     "url": "https://taxguru.in/goods-and-service-tax/limits-bhandari-scrap-traders.html",
+     "gist": "Reads the SC order as confined to validity, explains why the Tripura reading-down survives, and draws on EU case law (Kittel / Recolta) for a 'knew or ought to have known' test."
+    },
+    {
+     "title": "Shaurya Alloys — precedent note on 424 writ petitions",
+     "author": "Ravindra Kumar Rastogi, Advocate",
+     "source": "TaxGuru",
+     "date": "4 Oct 2026",
+     "url": "https://taxguru.in/?p=1085193",
+     "gist": "Breaks down the P&H guidelines and suggests model grounds and questions of law for pending cases."
+    },
+    {
+     "title": "ITC cannot be denied to a bona fide purchaser merely for supplier's GST default",
+     "author": "Bimal Jain",
+     "source": "TaxTMI",
+     "date": "20 Mar 2026",
+     "url": "https://www.taxtmi.com/article/detailed?id=16052",
+     "gist": "Case note on the Tripura HC line of rulings in non-fraud (s.73) proceedings, with practical comments."
+    },
+    {
+     "title": "CBIC clarifies implementation of s.16(5) and 16(6)",
+     "author": "Taxmann editorial",
+     "source": "Taxmann",
+     "date": "16 Oct 2024",
+     "url": "https://taxmann.com/post/blog/cbic-clarifies-issues-regarding-implementation-of-provisions-of-section-165-166-of-cgst-act",
+     "gist": "Summary of Circular 237/31/2024-GST and the rectification route."
+    }
+   ],
+   "checklist": [
+    "Reconcile GSTR-2B / IMS with purchase register every month, before filing GSTR-3B.",
+    "Track vendors' GSTR-1 and GSTR-3B filing status; flag vendors with cancelled or suspended registration.",
+    "Keep the full proof set for each material purchase: invoice, e-way bill, LR / transport proof, GRN, bank payment, stock entry.",
+    "Run a 180-day ageing report on creditors and reverse ITC under Rule 37 where needed.",
+    "By 30 September of the next FY, review Rule 37A exposure for suppliers who have not filed GSTR-3B.",
+    "Lock in the 30 November / annual-return deadline for each FY's invoices; do not file GSTR-9 early if credit is still pending.",
+    "In replies to s.16(2)(c) notices: do not argue vires; argue bona fides, burden, sequence (supplier first) and the applicable High Court's line.",
+    "Add GST withholding / indemnity clauses to vendor contracts."
+   ],
+   "sources": [
+    {
+     "t": "CBIC — GST",
+     "url": "https://www.cbic.gov.in/entities/gst"
+    },
+    {
+     "t": "CBIC Tax Information portal (Acts, Rules, Notifications, Circulars)",
+     "url": "https://taxinformation.cbic.gov.in/"
+    },
+    {
+     "t": "Circular 237/31/2024-GST (PDF)",
+     "url": "https://cbic-gst.gov.in/pdf/circular-237-31-2024-GST.pdf"
+    },
+    {
+     "t": "Circular 211/05/2024-GST (GST Council)",
+     "url": "https://gstcouncil.gov.in/sites/default/files/2024-09/circular-no-211-05-2024.pdf"
+    },
+    {
+     "t": "Gujarat HC — Maruti Enterprise judgment (PDF via LiveLaw)",
+     "url": "https://www.livelaw.in/pdf_upload/2026/07/28/sca180802023gjhc240680132023301052026-689826.pdf"
+    },
+    {
+     "t": "LiveLaw — Tripura HC reads down s.16(2)(c)",
+     "url": "https://www.livelaw.in/high-court/tripura-high-court/cgst-s-162c-not-unconstitutional-but-itc-cannot-be-denied-to-bona-fide-purchaser-for-supplier-default-tripura-high-court-517128"
+    }
+   ]
+  },
+  {
+   "id": "it-3",
+   "date": "2026-11-23",
+   "act": "IT",
+   "actName": "Income-tax Act, 2025",
+   "section": "3",
+   "title": "Definition of “tax year”",
+   "chapter": "Chapter I — Preliminary",
+   "old1961": "Section 3 (previous year) and section 2(9) (assessment year), Income-tax Act, 1961",
+   "tags": [
+    "Tax year",
+    "Previous year",
+    "Assessment year",
+    "Transition",
+    "s.536",
+    "New business"
+   ],
+   "summary": "The single biggest conceptual change in the new Act. 'Previous year' and 'assessment year' are replaced by one term: the tax year, which is the financial year from 1 April. A business or income source that starts mid-year has a shorter first tax year, running from the start date to 31 March.",
+   "glance": [
+    {
+     "k": "In force",
+     "v": "1 April 2026 — first tax year under the new Act is 2026-27"
+    },
+    {
+     "k": "Default rule",
+     "v": "Tax year = 12-month financial year starting 1 April"
+    },
+    {
+     "k": "New business / new source",
+     "v": "From the date of setting up (or the source arising) to the end of that FY"
+    },
+    {
+     "k": "1961 equivalent",
+     "v": "s.3 'previous year' + s.2(9) 'assessment year'"
+    },
+    {
+     "k": "Transition",
+     "v": "Tax year 2025-26 and earlier stay under the 1961 Act (s.536 repeal & savings)"
+    },
+    {
+     "k": "Read with",
+     "v": "s.4 (charge on total income of the tax year), s.536, Finance Act 2026 (rates under Act 30 of 2025)"
+    }
+   ],
+   "text": [
+    {
+     "sub": "3(1)",
+     "t": "For the purposes of this Act, “tax year” means the twelve months period of the financial year commencing on the 1st April."
+    },
+    {
+     "sub": "3(2)",
+     "t": "In the case of a business or profession newly set up, or a source of income newly coming into existence in any financial year, the tax year shall be the period beginning with— (a) the date of setting up of such business or profession; or (b) the date on which such source of income newly comes into existence, and ending with the said financial year."
+    }
+   ],
+   "textNote": "Text as published on the Income Tax Department's site (Income-tax Act, 2025, as amended by the Finance Act, 2026).",
+   "interpretation": [
+    {
+     "h": "1. One period instead of two",
+     "p": [
+      "Under the 1961 Act, income was <i>earned</i> in a previous year and <i>assessed</i> in the following assessment year, so FY 2025-26 income was 'AY 2026-27'. Section 3 removes the second label: income earned from 1 April 2026 to 31 March 2027 is simply <b>tax year 2026-27</b>, and it is taxed for that same tax year. Section 4 then charges tax on the total income of the tax year at the rates set by a Central Act — the Finance Act, 2026 is the first to prescribe rates under Act 30 of 2025.",
+      "The substance has not changed: since AY 1989-90, the 1961 Act already required a uniform financial-year previous year. The reform is about terminology and fewer errors (in returns, challans, notices and contracts), not about a new accounting period."
+     ]
+    },
+    {
+     "h": "2. A shorter first year for new businesses and new income sources",
+     "p": [
+      "Section 3(2) keeps the old rule: when a business or profession is <i>set up</i>, or a new source of income <i>comes into existence</i>, during a financial year, the first tax year runs from that date to 31 March. It can be one day long, and it can never be longer than twelve months — there is no option for an extended first period.",
+      "The trigger is the date of <b>setting up</b>, not commencement. The 1961-Act case law on this carries over because the wording is the same in substance: a business is set up when it is ready to commence (<i>Western India Vegetable Products</i>, Bom HC 1954); the first steps in the business, such as acquiring raw material, can mark setting up (<i>Saurashtra Cement</i>, Guj HC 1973); a mere decision or preparatory steps are not enough (<i>Prem Conductors</i>, Guj HC 1977); a service business can be set up before any revenue is earned (<i>ESPN Software India</i>, Del HC 2008). The date matters because expenses incurred <i>after</i> setting up are revenue deductions in that first tax year, while costs incurred before it generally go to capital or to the preliminary-expense provisions."
+     ]
+    },
+    {
+     "h": "3. Transition: which Act applies?",
+     "p": [
+      "Section 536 repeals the 1961 Act but saves it for earlier periods. The Department's own FAQ says the 2025 Act applies from tax year 2026-27, while the 1961 Act continues to apply to tax year 2025-26 and earlier. So a return for FY 2025-26 filed in 2026 is still filed for 'AY 2026-27' under the old Act — which is why CBDT's Circular 07/2026 extending due dates refers to section 139 of the 1961 Act.",
+      "Two practical traps: (i) proceedings for old years — assessment, reassessment, appeal and penalty — continue under the old provisions, but where a default or refund arises after 1 April 2026 the new Act's procedure may apply, so check the savings clause for each step; (ii) documents drafted before 2026 that refer to an 'assessment year' should be read against the corresponding tax year — update templates for engagement letters, loan covenants, Form 15G/H-type declarations and board resolutions."
+     ]
+    },
+    {
+     "h": "4. Periods other than the tax year",
+     "p": [
+      "Section 3 is the default, not an absolute rule. Section 4(4) allows the Act to charge tax on income of a period other than the tax year — the successors to the 1961 Act's special cases for shipping income of non-residents, persons leaving India, AOPs/BOIs formed for a particular event, persons likely to transfer property to avoid tax, and discontinued businesses. In those cases tax may be assessed before the tax year ends."
+     ]
+    },
+    {
+     "h": "5. Checklist for the first tax year (2026-27)",
+     "p": [
+      "Change your ledgers, invoices, TDS/TCS records and client communications to refer to 'tax year 2026-27'. Use the new form numbers under the Income-tax Rules, 2026 (notified 20 March 2026) for that year, and the old forms for 2025-26 compliance. For clients starting a business or a new source of income in 2026-27, record the date of setting up with evidence (for example, the date a factory became ready, an office opened, or the first lease began)."
+     ]
+    }
+   ],
+   "diagram": {
+    "type": "compare",
+    "title": "Old vs new: how one year of income is described",
+    "left": {
+     "h": "Income-tax Act, 1961",
+     "items": [
+      "Income earned in Previous Year (PY) 2025-26",
+      "Assessed in Assessment Year (AY) 2026-27",
+      "Two labels for the same income",
+      "Defined in s.3 (PY) and s.2(9) (AY)",
+      "Still applies to FY 2025-26 and earlier"
+     ]
+    },
+    "right": {
+     "h": "Income-tax Act, 2025",
+     "items": [
+      "Income earned in Tax Year 2026-27",
+      "Taxed for Tax Year 2026-27",
+      "One label throughout",
+      "Defined in s.3 (tax year)",
+      "Applies from 1 April 2026"
+     ]
+    }
+   },
+   "charts": [
+    {
+     "type": "bar",
+     "title": "Length of the first tax year by month the business is set up (s.3(2))",
+     "unit": "months",
+     "data": [
+      {
+       "label": "April",
+       "value": 12
+      },
+      {
+       "label": "May",
+       "value": 11
+      },
+      {
+       "label": "June",
+       "value": 10
+      },
+      {
+       "label": "July",
+       "value": 9
+      },
+      {
+       "label": "August",
+       "value": 8
+      },
+      {
+       "label": "September",
+       "value": 7
+      },
+      {
+       "label": "October",
+       "value": 6
+      },
+      {
+       "label": "November",
+       "value": 5
+      },
+      {
+       "label": "December",
+       "value": 4
+      },
+      {
+       "label": "January",
+       "value": 3
+      },
+      {
+       "label": "February",
+       "value": 2
+      },
+      {
+       "label": "March",
+       "value": 1
+      }
+     ],
+     "note": "Assumes setting up on the 1st of the month; the period always ends on 31 March."
+    },
+    {
+     "type": "timeline",
+     "title": "From Bill to law: the Income-tax Act, 2025",
+     "events": [
+      {
+       "date": "13 Feb 2025",
+       "label": "Income-tax Bill, 2025 introduced in the Lok Sabha and referred to a Select Committee",
+       "tone": "warn"
+      },
+      {
+       "date": "21 Jul 2025",
+       "label": "Select Committee report presented",
+       "tone": "warn"
+      },
+      {
+       "date": "8 Aug 2025",
+       "label": "Original Bill withdrawn",
+       "tone": "bad"
+      },
+      {
+       "date": "11–12 Aug 2025",
+       "label": "Income-tax (No. 2) Bill, 2025 introduced and passed by both Houses",
+       "tone": "good"
+      },
+      {
+       "date": "21 Aug 2025",
+       "label": "Presidential assent — Income-tax Act, 2025 (30 of 2025)",
+       "tone": "key"
+      },
+      {
+       "date": "20 Mar 2026",
+       "label": "Income-tax Rules, 2026 notified (G.S.R. 198(E), Notification 22/2026)",
+       "tone": "good"
+      },
+      {
+       "date": "1 Apr 2026",
+       "label": "Act and Rules in force; tax year 2026-27 begins",
+       "tone": "key"
+      }
+     ],
+     "legend": [
+      [
+       "warn",
+       "Process"
+      ],
+      [
+       "bad",
+       "Withdrawn"
+      ],
+      [
+       "good",
+       "Passed / notified"
+      ],
+      [
+       "key",
+       "Milestone"
+      ]
+     ]
+    }
+   ],
+   "mapping": [
+    {
+     "old": "s.3 — Previous year",
+     "new": "s.3(1) — Tax year",
+     "note": "Same 12-month FY concept"
+    },
+    {
+     "old": "s.3 — New business / source",
+     "new": "s.3(2)",
+     "note": "Unchanged in substance"
+    },
+    {
+     "old": "s.2(9) — Assessment year",
+     "new": "No equivalent",
+     "note": "Concept dropped"
+    },
+    {
+     "old": "s.4 — Charge of income-tax",
+     "new": "s.4",
+     "note": "Charge on total income of the tax year"
+    },
+    {
+     "old": "ss.172–176 — Special periods",
+     "new": "Covered via s.4(4) framework",
+     "note": "Income of a period other than the tax year"
+    },
+    {
+     "old": "s.297 — Repeals & savings (1922 Act)",
+     "new": "s.536 — Repeal & savings (1961 Act)",
+     "note": "Governs transition"
+    }
+   ],
+   "rules": [
+    {
+     "ref": "Income-tax Rules, 2026",
+     "title": "Notified 20 March 2026 under s.533",
+     "gist": "G.S.R. 198(E), Notification 22/2026. All forms and procedures refer to the 'tax year'. In force from 1 April 2026."
+    },
+    {
+     "ref": "Income-tax (Amendment) Rules, 2026 onwards",
+     "title": "Several amendments during 2026",
+     "gist": "Notifications 55/2026 (31 Mar 2026), 134/2026 (Sixth Amendment, 8 Oct 2026), and the Eighth Amendment (Nov 2026). None changes the tax-year concept, but they change forms used for the tax year."
+    }
+   ],
+   "notifications": [
+    {
+     "ref": "Press Release, CBDT",
+     "date": "01.04.2026",
+     "gist": "Income-tax Act, 2025 comes into force; confirms assent on 21 Aug 2025 and Rules notified on 20 Mar 2026."
+    },
+    {
+     "ref": "Notification 22/2026",
+     "date": "20.03.2026",
+     "gist": "Income-tax Rules, 2026."
+    },
+    {
+     "ref": "Circular 07/2026",
+     "date": "28.09.2026",
+     "gist": "Extended ITR/audit-report due dates for AY 2026-27 under s.139 of the 1961 Act — an example of the old Act still governing FY 2025-26."
+    },
+    {
+     "ref": "Notification 142/2026",
+     "date": "16.11.2026",
+     "gist": "Exemption issued using the s.536(2) savings clause for FYs 2022-23 to 2025-26 — shows how old-period matters are handled after repeal."
+    }
+   ],
+   "cases": [
+    {
+     "name": "Western India Vegetable Products Ltd. v. CIT",
+     "court": "Bombay HC",
+     "date": "1954",
+     "cite": "26 ITR 151",
+     "held": "A business is 'set up' when it is ready to commence; setting up and commencement are different events.",
+     "status": "Persuasive"
+    },
+    {
+     "name": "CIT v. Saurashtra Cement & Chemical Industries Ltd.",
+     "court": "Gujarat HC",
+     "date": "1973",
+     "cite": "91 ITR 170",
+     "held": "Acquiring raw material (quarrying limestone) was part of the business; the business was set up from that activity.",
+     "status": "Persuasive"
+    },
+    {
+     "name": "Prem Conductors (P) Ltd. v. CIT",
+     "court": "Gujarat HC",
+     "date": "1977",
+     "cite": "108 ITR 654",
+     "held": "Preparatory steps and a decision to start a business do not amount to setting it up.",
+     "status": "Persuasive"
+    },
+    {
+     "name": "CIT v. ESPN Software India (P) Ltd.",
+     "court": "Delhi HC",
+     "date": "2008",
+     "cite": "301 ITR 368",
+     "held": "A service business is set up when it is ready to render services, even before earning revenue.",
+     "status": "Persuasive"
+    },
+    {
+     "name": "No reported ruling yet on s.3 of the 2025 Act",
+     "court": "—",
+     "date": "as of 23.11.2026",
+     "cite": "",
+     "held": "In our search we found no reported judgment construing s.3 of the 2025 Act. Because the wording matches the 1961 provision in substance, the earlier precedents should carry over.",
+     "status": "Related"
+    }
+   ],
+   "forms": [
+    {
+     "form": "ITR forms for tax year 2026-27",
+     "use": "First returns under the 2025 Act, due in 2027; forms notified under the Income-tax Rules, 2026."
+    },
+    {
+     "form": "ITR forms for AY 2026-27 (FY 2025-26)",
+     "use": "Still filed under the 1961 Act and Rules, 1962."
+    },
+    {
+     "form": "TDS/TCS statements and certificates",
+     "use": "Quarters from 1 April 2026 refer to tax year 2026-27 under s.393/397 and the 2026 Rules."
+    }
+   ],
+   "articles": [
+    {
+     "title": "Income-tax Act, 2025 comes into force — salient features & FAQs",
+     "author": "Income Tax Department",
+     "source": "incometaxindia.gov.in",
+     "date": "2026",
+     "url": "https://www.incometaxindia.gov.in/documents/d/guest/english-salient-features-of-new-income-tax-act-pdf",
+     "gist": "Official FAQ: the 2025 Act applies from tax year 2026-27 and the 1961 Act to 2025-26 and earlier."
+    },
+    {
+     "title": "Income-tax Act 2025 — all you need to know",
+     "author": "SCC Online editorial",
+     "source": "SCC Online Times",
+     "date": "2025",
+     "url": "https://www.scconline.com/blog/?p=357638",
+     "gist": "Explains the tax-year concept and how references to earlier tax years are read as previous years under the repealed Act."
+    },
+    {
+     "title": "Income Tax Bill 2025: analysis of sections 3 & 4",
+     "author": "TaxGuru contributor",
+     "source": "TaxGuru",
+     "date": "2025",
+     "url": "https://taxguru.in/?p=949886",
+     "gist": "Clause-by-clause comparison of tax year and basis of charge with the 1961 Act."
+    },
+    {
+     "title": "FAQs on transition provisions under s.536",
+     "author": "CBDT",
+     "source": "incometaxindia.gov.in",
+     "date": "2026",
+     "url": "https://www.incometaxindia.gov.in/en/income-tax-act-202511",
+     "gist": "Official guidance on repeals and savings — essential reading alongside s.3."
+    }
+   ],
+   "checklist": [
+    "Replace 'AY/PY' with 'tax year' in templates for periods from 1 April 2026.",
+    "For FY 2025-26 compliance (returns filed in 2026), keep using the 1961 Act, Rules 1962 and old forms.",
+    "For new businesses, document the date of setting up with evidence; it fixes the first tax year and the deductibility of early expenses.",
+    "Check the s.536 savings clause before applying new-Act procedure to an old-year proceeding.",
+    "Map 1961 section references in opinions and contracts to the new section numbers using the CBDT mapping utility."
+   ],
+   "sources": [
+    {
+     "t": "Income-tax Act, 2025 — Section 3 (official)",
+     "url": "https://www.incometaxindia.gov.in/w/section-3-258"
+    },
+    {
+     "t": "Income-tax Act, 2025 — Section 4 (official)",
+     "url": "https://www.incometaxindia.gov.in/w/section-4-296"
+    },
+    {
+     "t": "Income Tax Department — Income-tax Act page",
+     "url": "https://www.incometaxindia.gov.in/income-tax-act"
+    },
+    {
+     "t": "CBDT press release, 1 April 2026 (PDF)",
+     "url": "https://www.incometaxindia.gov.in/documents/d/guest/press-release-income-tax-act-2025-comes-into-force-from-01-april-2026-pdf"
+    },
+    {
+     "t": "Income-tax Rules, 2026",
+     "url": "https://incometaxindia.gov.in/income-tax-rule-2026"
+    }
+   ]
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-11-23",
+   "act": "GST",
+   "items": [
+    {
+     "t": "Rate changes from 1 Nov 2026 under Notifications 2/2026 to 10/2026-Central Tax (Rate), dated 27 Oct 2026, mostly on the 57th GST Council's recommendations.",
+     "url": "https://taxguru.in/?p=1097734"
+    },
+    {
+     "t": "Notification 05/2026-Central Tax (26 Oct 2026): large rewrite of the CGST Rules, effective in stages from 1 Nov 2026, 1 Dec 2026, 1 Jan 2027 and 1 Apr 2027.",
+     "url": "https://calcguru.in/?p=9937"
+    },
+    {
+     "t": "2% GST TDS on purchases of specified waste and scrap where contract value exceeds ₹2.5 lakh, effective 1 Nov 2026.",
+     "url": "https://hnallp.com/a/cbic-gst-updates-october-2026"
+    },
+    {
+     "t": "Eight circulars dated 26 Oct 2026 (257/03/2026 to 264/10/2026-GST): registration, adjudication, pre-deposit, ISD, s.17(4) option for banks/NBFCs, demo vehicles, export proceeds, omission of Rule 96(10).",
+     "url": "https://taxo.online/?p=552296"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "act": "IT",
+   "items": [
+    {
+     "t": "Notification 142/2026 (16 Nov 2026): retrospective exemption to Joint Plant Committee for FYs 2022-23 to 2025-26 using the s.536(2) savings clause.",
+     "url": "https://a2ztaxcorp.net/?p=41949"
+    },
+    {
+     "t": "Notification 141/2026 (4 Nov 2026): no TDS on specified dividends between IFSC aircraft-leasing units, subject to a declaration in Form 1(N); effective 1 Apr 2026.",
+     "url": "https://www.scconline.com/blog/?p=401055"
+    },
+    {
+     "t": "Income-tax (Eighth Amendment) Rules, 2026 notified in early November 2026.",
+     "url": "https://www.incometax.gov.in/iec/foportal/latest-news"
+    },
+    {
+     "t": "Circular 07/2026 (28 Sep 2026): ITR due date for specified persons for AY 2026-27 extended from 31 Oct to 21 Nov 2026.",
+     "url": "https://www.incometax.gov.in/iec/foportal/latest-news"
+    }
+   ]
+  }
+ ],
+ "queue": {
+  "GST": [
+   "2(52)/2(102) Goods & services",
+   "7",
+   "9",
+   "10",
+   "12–13",
+   "15",
+   "17",
+   "18",
+   "22–25",
+   "29–30",
+   "31",
+   "34",
+   "35–36",
+   "37–39",
+   "41",
+   "44",
+   "49",
+   "50",
+   "51–52",
+   "54",
+   "61",
+   "62–63",
+   "65",
+   "67",
+   "73",
+   "74",
+   "74A",
+   "75",
+   "76",
+   "79",
+   "83",
+   "107",
+   "112",
+   "122",
+   "125–127",
+   "128A",
+   "129–130",
+   "132",
+   "140",
+   "155",
+   "161",
+   "168A",
+   "171"
+  ],
+  "IT": [
+   "4",
+   "5",
+   "6",
+   "7–8",
+   "9",
+   "11",
+   "13",
+   "15–16",
+   "19",
+   "20–21",
+   "22",
+   "26–27",
+   "28",
+   "29",
+   "30–34",
+   "35",
+   "56–57",
+   "58",
+   "67",
+   "68",
+   "69",
+   "80",
+   "92",
+   "102",
+   "106",
+   "123",
+   "125–127",
+   "133",
+   "134",
+   "135",
+   "136",
+   "138",
+   "139",
+   "140",
+   "147",
+   "155",
+   "158",
+   "159",
+   "160",
+   "161",
+   "162",
+   "163",
+   "165",
+   "169–171",
+   "173",
+   "180",
+   "187",
+   "189",
+   "195",
+   "196",
+   "197",
+   "198",
+   "202",
+   "209",
+   "210",
+   "215",
+   "232",
+   "263",
+   "266",
+   "268",
+   "270",
+   "271",
+   "273",
+   "279",
+   "280",
+   "281",
+   "285",
+   "286",
+   "290",
+   "291",
+   "295",
+   "299",
+   "305",
+   "312",
+   "319",
+   "330",
+   "352",
+   "357",
+   "380",
+   "387",
+   "390",
+   "392",
+   "393",
+   "394",
+   "397",
+   "402",
+   "411",
+   "418",
+   "423",
+   "427",
+   "439",
+   "440",
+   "446",
+   "461",
+   "466",
+   "472",
+   "474",
+   "477",
+   "478",
+   "497",
+   "501",
+   "502",
+   "505",
+   "511",
+   "515",
+   "516",
+   "521",
+   "525",
+   "531",
+   "533",
+   "536"
+  ]
+ }
+}
